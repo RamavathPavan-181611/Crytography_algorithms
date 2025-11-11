@@ -1,0 +1,3 @@
+I want to meet with you at 6 pm today.
+This is a test message for the One-Time Pad encryption.
+If the decryption works correctly, this exact text should reappear in decrypted.txt.

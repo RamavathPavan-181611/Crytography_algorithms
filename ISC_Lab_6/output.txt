@@ -1,0 +1,11 @@
+example 1:
+Plaintext:  HELP
+Ciphertext: HIAT
+Decrypted:  HELP
+
+example 2:
+
+Plaintext:  OVERSHADOW
+Ciphertext: BDLPXTJPEI
+Decrypted:  OVERSHADOW
+
